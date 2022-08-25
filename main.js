@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         UCAS Class Enrollment Assistant
-// @version      1.0
+// @version      1.1
 // @description  方便抢课界面操作的脚本。1.点击🚀即可自动筛选学院/滚动到对应课程所在位置，同时为了避免脚本失效，会把点击的内容拷贝到剪贴板；2.添加提交选课按钮。目前为自用版，需要手动在config里配置想抢的课，以后有时间了会考虑一下怎么配置比较方便。
 // @author       BarryZZJ
 // @namespace    https://github.com/barryZZJ/
