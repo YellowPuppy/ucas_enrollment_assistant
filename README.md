@@ -5,7 +5,7 @@
 
 
 ## 使用演示：
-[![](demo/usage.gif)](/demo/usage.gif)
+![](demo/usage.gif)
 
 ## 安装方法
 
