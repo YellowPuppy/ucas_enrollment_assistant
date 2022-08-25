@@ -5,7 +5,7 @@
 
 
 ## 使用演示：
-[![](demo/usage2.gif)](https://github.com/barryZZJ/ucas_enrollment_assistant/demo/usage.gif)
+[![](demo/usage.gif)](https://github.com/barryZZJ/ucas_enrollment_assistant/demo/usage.gif)
 
 ## 安装方法
 
