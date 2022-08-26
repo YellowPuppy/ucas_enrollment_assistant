@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         UCAS Class Enrollment Assistant
-// @version      1.2
+// @version      1.3
 // @description  这是一个方便抢课界面操作的脚本。包括的功能有：1.自动跳转： 进入选课系统后，会自动跳转到选择课程页面。（如需查看通知公告 需要临时把脚本禁用）2.一键筛选/定位： 点击🚀即可自动筛选学院/滚动到对应课程所在位置（在筛选学院页面也可以直接点击课程编号等按钮一键跳转）。3.快速提交： 选课页面添加提交选课按钮。目前为自用版，而且由于需要赶在抢课之前完成，时间比较紧张，故配置待抢课程需要手动修改代码里的config。
 // @author       BarryZZJ
 // @namespace    https://github.com/barryZZJ/
@@ -498,7 +498,7 @@ function scrollto(jqele) {
 }
 
 function error (msg) {
-  top.$.jBox.tip(msg);
+  $.jBox.tip(msg);
 }
 
 (function () {
